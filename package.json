@@ -1,0 +1,9 @@
+{
+  "name": "sirensence-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "sync": "node scripts/sync-releases.mjs"
+  }
+}

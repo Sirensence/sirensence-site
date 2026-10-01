@@ -1,0 +1,755 @@
+{
+  "schema_version": 2,
+  "market": "MX",
+  "releases": [
+    {
+      "source_id": "apple:6817973984",
+      "apple_collection_id": "6817973984",
+      "title": "I Hate The Way We Love",
+      "artist": "Sirensence",
+      "spotify_url": "https://open.spotify.com/album/4gqsjaSgBnYFaYi4HrYj1n",
+      "spotify_search_url": "https://open.spotify.com/search/Sirensence%20I%20Hate%20The%20Way%20We%20Love",
+      "spotify_artist_url": "https://open.spotify.com/artist/4KYUjMtt4WTOqNm32dv2CO",
+      "apple_music_url": "https://music.apple.com/mx/album/i-hate-the-way-we-love-single/6817973984?uo=4",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/fa/68/ecfa6820-2825-8696-2777-ae2a74f49752/artwork.jpg/600x600bb.jpg",
+      "format": "Single",
+      "release_date": "2026-09-30",
+      "total_tracks": 1,
+      "tracks": [
+        {
+          "apple_track_id": "6817973985",
+          "track_number": 1,
+          "title": "I Hate The Way We Love",
+          "duration_ms": 202107,
+          "explicit": false,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20I%20Hate%20The%20Way%20We%20Love",
+          "apple_music_url": "https://music.apple.com/mx/album/i-hate-the-way-we-love/6817973984?i=6817973985&uo=4"
+        }
+      ]
+    },
+    {
+      "source_id": "apple:6817568937",
+      "apple_collection_id": "6817568937",
+      "title": "My Delusional Spouse",
+      "artist": "Sirensence",
+      "spotify_url": "https://open.spotify.com/album/6aUmXtqedLbtZaZwXFwYxo",
+      "spotify_search_url": "https://open.spotify.com/search/Sirensence%20My%20Delusional%20Spouse",
+      "spotify_artist_url": "https://open.spotify.com/artist/4KYUjMtt4WTOqNm32dv2CO",
+      "apple_music_url": "https://music.apple.com/mx/album/my-delusional-spouse-single/6817568937?uo=4",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/a1/2e/9fa12ea0-8572-926c-471d-198171f3988b/artwork.jpg/600x600bb.jpg",
+      "format": "Single",
+      "release_date": "2026-09-29",
+      "total_tracks": 1,
+      "tracks": [
+        {
+          "apple_track_id": "6817568938",
+          "track_number": 1,
+          "title": "My Delusional Spouse",
+          "duration_ms": 180174,
+          "explicit": true,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20My%20Delusional%20Spouse",
+          "apple_music_url": "https://music.apple.com/mx/album/my-delusional-spouse/6817568937?i=6817568938&uo=4"
+        }
+      ]
+    },
+    {
+      "source_id": "apple:6811512990",
+      "apple_collection_id": "6811512990",
+      "title": "My Little Siren",
+      "artist": "Sirensence",
+      "spotify_url": "https://open.spotify.com/intl-es/album/48nFT6QIJOvDr9dpopiOGP",
+      "spotify_search_url": "https://open.spotify.com/search/Sirensence%20My%20Little%20Siren",
+      "spotify_artist_url": "https://open.spotify.com/artist/4KYUjMtt4WTOqNm32dv2CO",
+      "apple_music_url": "https://music.apple.com/mx/album/my-little-siren-ep/6811512990?uo=4",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/c1/be/e9c1bee3-9ecc-5abb-b4fc-595346c86cd1/artwork.jpg/600x600bb.jpg",
+      "format": "EP",
+      "release_date": "2026-09-11",
+      "total_tracks": 5,
+      "tracks": [
+        {
+          "apple_track_id": "6811512991",
+          "track_number": 1,
+          "title": "My Little Siren",
+          "duration_ms": 193464,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/46yai4liPWTU5gN6Tjrprt",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20My%20Little%20Siren",
+          "apple_music_url": "https://music.apple.com/mx/album/my-little-siren/6811512990?i=6811512991&uo=4"
+        },
+        {
+          "apple_track_id": "6811512992",
+          "track_number": 2,
+          "title": "Sweet Shooting Star",
+          "duration_ms": 161723,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/39msqqcYMKHGtqKyRCrnao",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Sweet%20Shooting%20Star",
+          "apple_music_url": "https://music.apple.com/mx/album/sweet-shooting-star/6811512990?i=6811512992&uo=4"
+        },
+        {
+          "apple_track_id": "6811512993",
+          "track_number": 3,
+          "title": "Bioluminescent Love",
+          "duration_ms": 214384,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/1sESVz0gYvZTZH13C6J2ec",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Bioluminescent%20Love",
+          "apple_music_url": "https://music.apple.com/mx/album/bioluminescent-love/6811512990?i=6811512993&uo=4"
+        },
+        {
+          "apple_track_id": "6811512994",
+          "track_number": 4,
+          "title": "Scared of Love",
+          "duration_ms": 194924,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/3OAb1z0Ml6Dl1vi7J8ejTI",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Scared%20of%20Love",
+          "apple_music_url": "https://music.apple.com/mx/album/scared-of-love/6811512990?i=6811512994&uo=4"
+        },
+        {
+          "apple_track_id": "6811512995",
+          "track_number": 5,
+          "title": "Everything Comes In Waves",
+          "duration_ms": 273781,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/5JeXegSM60OWMrzjKhYwJg",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Everything%20Comes%20In%20Waves",
+          "apple_music_url": "https://music.apple.com/mx/album/everything-comes-in-waves/6811512990?i=6811512995&uo=4"
+        }
+      ]
+    },
+    {
+      "source_id": "apple:6811567749",
+      "apple_collection_id": "6811567749",
+      "title": "No One Ever Cared for Me",
+      "artist": "Sirensence",
+      "spotify_url": "https://open.spotify.com/intl-es/album/3VKrkp1tenYQwAGxk7HqAu",
+      "spotify_search_url": "https://open.spotify.com/search/Sirensence%20No%20One%20Ever%20Cared%20for%20Me",
+      "spotify_artist_url": "https://open.spotify.com/artist/4KYUjMtt4WTOqNm32dv2CO",
+      "apple_music_url": "https://music.apple.com/mx/album/no-one-ever-cared-for-me-single/6811567749?uo=4",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/1c/91/b21c911d-4a03-e78f-8414-4e9845ed92f0/artwork.jpg/600x600bb.jpg",
+      "format": "Single",
+      "release_date": "2026-09-11",
+      "total_tracks": 1,
+      "tracks": [
+        {
+          "apple_track_id": "6811567750",
+          "track_number": 1,
+          "title": "No One Ever Cared for Me",
+          "duration_ms": 185116,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/3Q60pk9aCqzk5uFZALy9MT",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20No%20One%20Ever%20Cared%20for%20Me",
+          "apple_music_url": "https://music.apple.com/mx/album/no-one-ever-cared-for-me/6811567749?i=6811567750&uo=4"
+        }
+      ]
+    },
+    {
+      "source_id": "apple:6811247594",
+      "apple_collection_id": "6811247594",
+      "title": "Caffeine and Collapse",
+      "artist": "Sirensence",
+      "spotify_url": "https://open.spotify.com/intl-es/album/1j8j5Znjt9ZIQVXnscBKmY",
+      "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Caffeine%20and%20Collapse",
+      "spotify_artist_url": "https://open.spotify.com/artist/4KYUjMtt4WTOqNm32dv2CO",
+      "apple_music_url": "https://music.apple.com/mx/album/caffeine-and-collapse-single/6811247594?uo=4",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/2b/15/4d2b15a3-39b0-2e80-f5b7-b09fefd6b0e9/artwork.jpg/600x600bb.jpg",
+      "format": "Single",
+      "release_date": "2026-09-10",
+      "total_tracks": 1,
+      "tracks": [
+        {
+          "apple_track_id": "6811247595",
+          "track_number": 1,
+          "title": "Caffeine and Collapse",
+          "duration_ms": 142705,
+          "explicit": true,
+          "spotify_url": "https://open.spotify.com/intl-es/track/1xBmxPMOMwttABVHD3oEUZ",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Caffeine%20and%20Collapse",
+          "apple_music_url": "https://music.apple.com/mx/album/caffeine-and-collapse/6811247594?i=6811247595&uo=4"
+        }
+      ]
+    },
+    {
+      "source_id": "apple:6809898075",
+      "apple_collection_id": "6809898075",
+      "title": "Heavy Vibe",
+      "artist": "Sirensence",
+      "spotify_url": "https://open.spotify.com/intl-es/album/06SFiRoJj84vY4FbsztcQl",
+      "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Heavy%20Vibe",
+      "spotify_artist_url": "https://open.spotify.com/artist/4KYUjMtt4WTOqNm32dv2CO",
+      "apple_music_url": "https://music.apple.com/mx/album/heavy-vibe-single/6809898075?uo=4",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/47/57/864757a8-bddd-c5b9-783c-568b510571de/artwork.jpg/600x600bb.jpg",
+      "format": "Single",
+      "release_date": "2026-09-08",
+      "total_tracks": 1,
+      "tracks": [
+        {
+          "apple_track_id": "6809898078",
+          "track_number": 1,
+          "title": "Heavy Vibe",
+          "duration_ms": 149580,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/0vrszfNhoDm3c0y7FTomef",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Heavy%20Vibe",
+          "apple_music_url": "https://music.apple.com/mx/album/heavy-vibe/6809898075?i=6809898078&uo=4"
+        }
+      ]
+    },
+    {
+      "source_id": "apple:6809174982",
+      "apple_collection_id": "6809174982",
+      "title": "Pretty Things Stay Here",
+      "artist": "Sirensence",
+      "spotify_url": "https://open.spotify.com/intl-es/album/2nPxwJQ5DlUmXcUC7cI5Jx",
+      "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Pretty%20Things%20Stay%20Here",
+      "spotify_artist_url": "https://open.spotify.com/artist/4KYUjMtt4WTOqNm32dv2CO",
+      "apple_music_url": "https://music.apple.com/mx/album/pretty-things-stay-here-single/6809174982?uo=4",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/56/7e/87567e8d-9d8b-dc19-dd33-0b4a2a49289e/artwork.jpg/600x600bb.jpg",
+      "format": "Single",
+      "release_date": "2026-09-06",
+      "total_tracks": 1,
+      "tracks": [
+        {
+          "apple_track_id": "6809174983",
+          "track_number": 1,
+          "title": "Pretty Things Stay Here",
+          "duration_ms": 134580,
+          "explicit": true,
+          "spotify_url": "https://open.spotify.com/intl-es/track/5pygEsKE0IY6BN4HLcpB5X",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Pretty%20Things%20Stay%20Here",
+          "apple_music_url": "https://music.apple.com/mx/album/pretty-things-stay-here/6809174982?i=6809174983&uo=4"
+        }
+      ]
+    },
+    {
+      "source_id": "apple:6807365554",
+      "apple_collection_id": "6807365554",
+      "title": "Cloud Island",
+      "artist": "Sirensence",
+      "spotify_url": "https://open.spotify.com/intl-es/album/7H9ABQyty4Jk1dKuMNNwzo",
+      "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Cloud%20Island",
+      "spotify_artist_url": "https://open.spotify.com/artist/4KYUjMtt4WTOqNm32dv2CO",
+      "apple_music_url": "https://music.apple.com/mx/album/cloud-island-single/6807365554?uo=4",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/01/2e/27012ec2-d71d-c5e4-b8e7-2f823b92ebb7/artwork.jpg/600x600bb.jpg",
+      "format": "Single",
+      "release_date": "2026-09-01",
+      "total_tracks": 1,
+      "tracks": [
+        {
+          "apple_track_id": "6807365556",
+          "track_number": 1,
+          "title": "Cloud Island",
+          "duration_ms": 327679,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/7bYM9Z9FQdStFPdfDd57nQ",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Cloud%20Island",
+          "apple_music_url": "https://music.apple.com/mx/album/cloud-island/6807365554?i=6807365556&uo=4"
+        }
+      ]
+    },
+    {
+      "source_id": "apple:6806744476",
+      "apple_collection_id": "6806744476",
+      "title": "Daddy's Not Allright",
+      "artist": "Sirensence",
+      "spotify_url": "https://open.spotify.com/intl-es/album/3FZLBy69hK0uWelEvm8qEu",
+      "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Daddy's%20Not%20Allright",
+      "spotify_artist_url": "https://open.spotify.com/artist/4KYUjMtt4WTOqNm32dv2CO",
+      "apple_music_url": "https://music.apple.com/mx/album/daddys-not-allright-single/6806744476?uo=4",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/6a/ff/876affd6-8be7-1779-18b7-c95c4899343d/artwork.jpg/600x600bb.jpg",
+      "format": "Single",
+      "release_date": "2026-08-30",
+      "total_tracks": 1,
+      "tracks": [
+        {
+          "apple_track_id": "6806744477",
+          "track_number": 1,
+          "title": "Daddy's Not Allright",
+          "duration_ms": 209040,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/714ynMmcDI1ECbedV7imUV",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Daddy's%20Not%20Allright",
+          "apple_music_url": "https://music.apple.com/mx/album/daddys-not-allright/6806744476?i=6806744477&uo=4"
+        }
+      ]
+    },
+    {
+      "source_id": "apple:6806537147",
+      "apple_collection_id": "6806537147",
+      "title": "Without a Soul",
+      "artist": "Sirensence",
+      "spotify_url": "https://open.spotify.com/intl-es/album/1KlE3dakBIHZYUWjkIG9t2",
+      "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Without%20a%20Soul",
+      "spotify_artist_url": "https://open.spotify.com/artist/4KYUjMtt4WTOqNm32dv2CO",
+      "apple_music_url": "https://music.apple.com/mx/album/without-a-soul-single/6806537147?uo=4",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ad/c1/0f/adc10f6e-502a-efed-33df-0f1b81373acb/artwork.jpg/600x600bb.jpg",
+      "format": "Single",
+      "release_date": "2026-08-29",
+      "total_tracks": 1,
+      "tracks": [
+        {
+          "apple_track_id": "6806537148",
+          "track_number": 1,
+          "title": "Without a Soul",
+          "duration_ms": 243746,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/2pP3HB1nNiSoGwgSYsSTix",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Without%20a%20Soul",
+          "apple_music_url": "https://music.apple.com/mx/album/without-a-soul/6806537147?i=6806537148&uo=4"
+        }
+      ]
+    },
+    {
+      "source_id": "apple:6787967791",
+      "apple_collection_id": "6787967791",
+      "title": "Sirensence Lofi Nights",
+      "artist": "Sirensence",
+      "spotify_url": "https://open.spotify.com/intl-es/album/7C9m4vuSjPCRJGlMw6jpto",
+      "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Sirensence%20Lofi%20Nights",
+      "spotify_artist_url": "https://open.spotify.com/artist/4KYUjMtt4WTOqNm32dv2CO",
+      "apple_music_url": "https://music.apple.com/mx/album/sirensence-lofi-nights/6787967791?uo=4",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/a8/ae/1da8ae7d-dc50-2bb0-b7f5-7a53aaa7ebf9/artwork.jpg/600x600bb.jpg",
+      "format": "Álbum",
+      "release_date": "2026-07-05",
+      "total_tracks": 20,
+      "tracks": [
+        {
+          "apple_track_id": "6787967792",
+          "track_number": 1,
+          "title": "A Pillow in the Safebox",
+          "duration_ms": 167200,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/7h0mdYnppgNOwuFim8xjk7",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20A%20Pillow%20in%20the%20Safebox",
+          "apple_music_url": "https://music.apple.com/mx/album/a-pillow-in-the-safebox/6787967791?i=6787967792&uo=4"
+        },
+        {
+          "apple_track_id": "6787967794",
+          "track_number": 2,
+          "title": "Clear Snow",
+          "duration_ms": 131560,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/1D2QURPWSjXuOdYh2gL2fK",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Clear%20Snow",
+          "apple_music_url": "https://music.apple.com/mx/album/clear-snow/6787967791?i=6787967794&uo=4"
+        },
+        {
+          "apple_track_id": "6787967795",
+          "track_number": 3,
+          "title": "Cozy Bed And Stuff",
+          "duration_ms": 166800,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/7G5VYvxx6WNbZsBic963MH",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Cozy%20Bed%20And%20Stuff",
+          "apple_music_url": "https://music.apple.com/mx/album/cozy-bed-and-stuff/6787967791?i=6787967795&uo=4"
+        },
+        {
+          "apple_track_id": "6787967796",
+          "track_number": 4,
+          "title": "Good Morning",
+          "duration_ms": 147480,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/59D8oYXWTFdRFGBJnPd1X4",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Good%20Morning",
+          "apple_music_url": "https://music.apple.com/mx/album/good-morning/6787967791?i=6787967796&uo=4"
+        },
+        {
+          "apple_track_id": "6787967797",
+          "track_number": 5,
+          "title": "Her Name",
+          "duration_ms": 153240,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/39IfgT0VasCJQbKWG5CZoH",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Her%20Name",
+          "apple_music_url": "https://music.apple.com/mx/album/her-name/6787967791?i=6787967797&uo=4"
+        },
+        {
+          "apple_track_id": "6787967798",
+          "track_number": 6,
+          "title": "I Don't Wanna Know",
+          "duration_ms": 165000,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/2fhSWbsLtgK55frsAfD9Pn",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20I%20Don't%20Wanna%20Know",
+          "apple_music_url": "https://music.apple.com/mx/album/i-dont-wanna-know/6787967791?i=6787967798&uo=4"
+        },
+        {
+          "apple_track_id": "6787967799",
+          "track_number": 7,
+          "title": "It's You Again",
+          "duration_ms": 150400,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/6rCL2bWOXmXFOCCX7H4ejD",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20It's%20You%20Again",
+          "apple_music_url": "https://music.apple.com/mx/album/its-you-again/6787967791?i=6787967799&uo=4"
+        },
+        {
+          "apple_track_id": "6787967800",
+          "track_number": 8,
+          "title": "Just Something",
+          "duration_ms": 158840,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/4zzlIo4ReKpHD8W3SctxUV",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Just%20Something",
+          "apple_music_url": "https://music.apple.com/mx/album/just-something/6787967791?i=6787967800&uo=4"
+        },
+        {
+          "apple_track_id": "6787967891",
+          "track_number": 9,
+          "title": "Just That",
+          "duration_ms": 146280,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/4cDUf4JGoZXeusPDRHw2DW",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Just%20That",
+          "apple_music_url": "https://music.apple.com/mx/album/just-that/6787967791?i=6787967891&uo=4"
+        },
+        {
+          "apple_track_id": "6787967892",
+          "track_number": 10,
+          "title": "Midnight Snack",
+          "duration_ms": 116480,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/2Ofm3j06FN9iTEsMw18vYJ",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Midnight%20Snack",
+          "apple_music_url": "https://music.apple.com/mx/album/midnight-snack/6787967791?i=6787967892&uo=4"
+        },
+        {
+          "apple_track_id": "6787967893",
+          "track_number": 11,
+          "title": "Saturday Night",
+          "duration_ms": 126920,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/39lEKmPjAtEIzTmWWryzhW",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Saturday%20Night",
+          "apple_music_url": "https://music.apple.com/mx/album/saturday-night/6787967791?i=6787967893&uo=4"
+        },
+        {
+          "apple_track_id": "6787967894",
+          "track_number": 12,
+          "title": "So They Say",
+          "duration_ms": 161200,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/60fJTd6juNobDbUKTaiOJY",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20So%20They%20Say",
+          "apple_music_url": "https://music.apple.com/mx/album/so-they-say/6787967791?i=6787967894&uo=4"
+        },
+        {
+          "apple_track_id": "6787967895",
+          "track_number": 13,
+          "title": "Someday Maybe",
+          "duration_ms": 149680,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/4Oy7vbEs6udgWdTRqx4zMO",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Someday%20Maybe",
+          "apple_music_url": "https://music.apple.com/mx/album/someday-maybe/6787967791?i=6787967895&uo=4"
+        },
+        {
+          "apple_track_id": "6787967896",
+          "track_number": 14,
+          "title": "Sunrise",
+          "duration_ms": 116560,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/2PuUqYOA4XjS7h3BLC5LSx",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Sunrise",
+          "apple_music_url": "https://music.apple.com/mx/album/sunrise/6787967791?i=6787967896&uo=4"
+        },
+        {
+          "apple_track_id": "6787967897",
+          "track_number": 15,
+          "title": "Take It Slow",
+          "duration_ms": 90000,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/1GoY4iTPGun6i4eWfeh5SU",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Take%20It%20Slow",
+          "apple_music_url": "https://music.apple.com/mx/album/take-it-slow/6787967791?i=6787967897&uo=4"
+        },
+        {
+          "apple_track_id": "6787967898",
+          "track_number": 16,
+          "title": "Walk On The Moonlight",
+          "duration_ms": 126880,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/4aZJix5QhaEao48J497waP",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Walk%20On%20The%20Moonlight",
+          "apple_music_url": "https://music.apple.com/mx/album/walk-on-the-moonlight/6787967791?i=6787967898&uo=4"
+        },
+        {
+          "apple_track_id": "6787967899",
+          "track_number": 17,
+          "title": "Water Wave",
+          "duration_ms": 182400,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/4fSaQaHOFfZbIG81n4CwvO",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Water%20Wave",
+          "apple_music_url": "https://music.apple.com/mx/album/water-wave/6787967791?i=6787967899&uo=4"
+        },
+        {
+          "apple_track_id": "6787967900",
+          "track_number": 18,
+          "title": "What's That Again",
+          "duration_ms": 119080,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/7KEtJpWBDgBvpBLL8DfQlQ",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20What's%20That%20Again",
+          "apple_music_url": "https://music.apple.com/mx/album/whats-that-again/6787967791?i=6787967900&uo=4"
+        },
+        {
+          "apple_track_id": "6787967901",
+          "track_number": 19,
+          "title": "Whatever It Is",
+          "duration_ms": 122424,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/7eAP8CXyogcCRvh5110dfX",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Whatever%20It%20Is",
+          "apple_music_url": "https://music.apple.com/mx/album/whatever-it-is/6787967791?i=6787967901&uo=4"
+        },
+        {
+          "apple_track_id": "6787967902",
+          "track_number": 20,
+          "title": "Yes, Whatever",
+          "duration_ms": 144120,
+          "explicit": false,
+          "spotify_url": "https://open.spotify.com/intl-es/track/7Hv2Sgu9Qdj5229yw5OX0T",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Yes%2C%20Whatever",
+          "apple_music_url": "https://music.apple.com/mx/album/yes-whatever/6787967791?i=6787967902&uo=4"
+        }
+      ]
+    },
+    {
+      "source_id": "apple:1795240899",
+      "apple_collection_id": "1795240899",
+      "title": "Intrusivecore",
+      "artist": "Sirensence",
+      "spotify_url": "https://open.spotify.com/intl-es/album/1UxahmJ9VuA5ZrcPafwVhl",
+      "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Intrusivecore",
+      "spotify_artist_url": "https://open.spotify.com/artist/4KYUjMtt4WTOqNm32dv2CO",
+      "apple_music_url": "https://music.apple.com/mx/album/intrusivecore/1795240899?uo=4",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/25/83/102583cd-4656-e251-b709-ebc355d40f1a/artwork.jpg/600x600bb.jpg",
+      "format": "Álbum",
+      "release_date": "2025-02-03",
+      "total_tracks": 13,
+      "tracks": [
+        {
+          "apple_track_id": "1795240900",
+          "track_number": 1,
+          "title": "I'm Bored Aren't You",
+          "duration_ms": 112788,
+          "explicit": true,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20I'm%20Bored%20Aren't%20You",
+          "apple_music_url": "https://music.apple.com/mx/album/im-bored-arent-you/1795240899?i=1795240900&uo=4"
+        },
+        {
+          "apple_track_id": "1795240901",
+          "track_number": 2,
+          "title": "IWKY",
+          "duration_ms": 67125,
+          "explicit": true,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20IWKY",
+          "apple_music_url": "https://music.apple.com/mx/album/iwky/1795240899?i=1795240901&uo=4"
+        },
+        {
+          "apple_track_id": "1795240902",
+          "track_number": 3,
+          "title": "Depressing Nightmare",
+          "duration_ms": 139112,
+          "explicit": true,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Depressing%20Nightmare",
+          "apple_music_url": "https://music.apple.com/mx/album/depressing-nightmare/1795240899?i=1795240902&uo=4"
+        },
+        {
+          "apple_track_id": "1795240903",
+          "track_number": 4,
+          "title": "Pancakes",
+          "duration_ms": 77147,
+          "explicit": true,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Pancakes",
+          "apple_music_url": "https://music.apple.com/mx/album/pancakes/1795240899?i=1795240903&uo=4"
+        },
+        {
+          "apple_track_id": "1795240904",
+          "track_number": 5,
+          "title": "Happiness",
+          "duration_ms": 41397,
+          "explicit": false,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Happiness",
+          "apple_music_url": "https://music.apple.com/mx/album/happiness/1795240899?i=1795240904&uo=4"
+        },
+        {
+          "apple_track_id": "1795240905",
+          "track_number": 6,
+          "title": "Stupid AF",
+          "duration_ms": 68786,
+          "explicit": false,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Stupid%20AF",
+          "apple_music_url": "https://music.apple.com/mx/album/stupid-af/1795240899?i=1795240905&uo=4"
+        },
+        {
+          "apple_track_id": "1795240906",
+          "track_number": 7,
+          "title": "Techno Fucker",
+          "duration_ms": 61969,
+          "explicit": false,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Techno%20Fucker",
+          "apple_music_url": "https://music.apple.com/mx/album/techno-fucker/1795240899?i=1795240906&uo=4"
+        },
+        {
+          "apple_track_id": "1795240907",
+          "track_number": 8,
+          "title": "The Banjo Master",
+          "duration_ms": 48214,
+          "explicit": false,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20The%20Banjo%20Master",
+          "apple_music_url": "https://music.apple.com/mx/album/the-banjo-master/1795240899?i=1795240907&uo=4"
+        },
+        {
+          "apple_track_id": "1795240908",
+          "track_number": 9,
+          "title": "The Goofy Ass Mage",
+          "duration_ms": 109969,
+          "explicit": false,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20The%20Goofy%20Ass%20Mage",
+          "apple_music_url": "https://music.apple.com/mx/album/the-goofy-ass-mage/1795240899?i=1795240908&uo=4"
+        },
+        {
+          "apple_track_id": "1795241389",
+          "track_number": 10,
+          "title": "Trapped",
+          "duration_ms": 140781,
+          "explicit": false,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Trapped",
+          "apple_music_url": "https://music.apple.com/mx/album/trapped/1795240899?i=1795241389&uo=4"
+        },
+        {
+          "apple_track_id": "1795241390",
+          "track_number": 11,
+          "title": "Wait A Minute",
+          "duration_ms": 94290,
+          "explicit": false,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Wait%20A%20Minute",
+          "apple_music_url": "https://music.apple.com/mx/album/wait-a-minute/1795240899?i=1795241390&uo=4"
+        },
+        {
+          "apple_track_id": "1795241391",
+          "track_number": 12,
+          "title": "Momero Sinso (Instrumental)",
+          "duration_ms": 80576,
+          "explicit": false,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Momero%20Sinso%20(Instrumental)",
+          "apple_music_url": "https://music.apple.com/mx/album/momero-sinso-instrumental/1795240899?i=1795241391&uo=4"
+        },
+        {
+          "apple_track_id": "1795241392",
+          "track_number": 13,
+          "title": "Shadow Figures At My Bedside",
+          "duration_ms": 111332,
+          "explicit": false,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Shadow%20Figures%20At%20My%20Bedside",
+          "apple_music_url": "https://music.apple.com/mx/album/shadow-figures-at-my-bedside/1795240899?i=1795241392&uo=4"
+        }
+      ]
+    },
+    {
+      "source_id": "apple:1793066215",
+      "apple_collection_id": "1793066215",
+      "title": "Good Times Come With A Price",
+      "artist": "Sirensence",
+      "spotify_url": "https://open.spotify.com/intl-es/album/2q56Y5Pt50eDaWppL6lgwf",
+      "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Good%20Times%20Come%20With%20A%20Price",
+      "spotify_artist_url": "https://open.spotify.com/artist/4KYUjMtt4WTOqNm32dv2CO",
+      "apple_music_url": "https://music.apple.com/mx/album/good-times-come-with-a-price/1793066215?uo=4",
+      "cover_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/c9/9a/c6c99a41-2dd6-fab1-9507-d2b0990218c1/artwork.jpg/600x600bb.jpg",
+      "format": "Álbum",
+      "release_date": "2025-01-24",
+      "total_tracks": 7,
+      "tracks": [
+        {
+          "apple_track_id": "1793066216",
+          "track_number": 1,
+          "title": "I Ain't Got No Time To Play",
+          "duration_ms": 100290,
+          "explicit": true,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20I%20Ain't%20Got%20No%20Time%20To%20Play",
+          "apple_music_url": "https://music.apple.com/mx/album/i-aint-got-no-time-to-play/1793066215?i=1793066216&uo=4"
+        },
+        {
+          "apple_track_id": "1793066218",
+          "track_number": 2,
+          "title": "IDGAF",
+          "duration_ms": 97938,
+          "explicit": true,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20IDGAF",
+          "apple_music_url": "https://music.apple.com/mx/album/idgaf/1793066215?i=1793066218&uo=4"
+        },
+        {
+          "apple_track_id": "1793066219",
+          "track_number": 3,
+          "title": "Dead Alive",
+          "duration_ms": 68839,
+          "explicit": true,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Dead%20Alive",
+          "apple_music_url": "https://music.apple.com/mx/album/dead-alive/1793066215?i=1793066219&uo=4"
+        },
+        {
+          "apple_track_id": "1793066220",
+          "track_number": 4,
+          "title": "Street Lights",
+          "duration_ms": 132268,
+          "explicit": true,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Street%20Lights",
+          "apple_music_url": "https://music.apple.com/mx/album/street-lights/1793066215?i=1793066220&uo=4"
+        },
+        {
+          "apple_track_id": "1793066221",
+          "track_number": 5,
+          "title": "Care For Me",
+          "duration_ms": 135603,
+          "explicit": false,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Care%20For%20Me",
+          "apple_music_url": "https://music.apple.com/mx/album/care-for-me/1793066215?i=1793066221&uo=4"
+        },
+        {
+          "apple_track_id": "1793066222",
+          "track_number": 6,
+          "title": "It Started Raining",
+          "duration_ms": 99647,
+          "explicit": false,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20It%20Started%20Raining",
+          "apple_music_url": "https://music.apple.com/mx/album/it-started-raining/1793066215?i=1793066222&uo=4"
+        },
+        {
+          "apple_track_id": "1793066223",
+          "track_number": 7,
+          "title": "Weird Shit",
+          "duration_ms": 95732,
+          "explicit": true,
+          "spotify_url": "",
+          "spotify_search_url": "https://open.spotify.com/search/Sirensence%20Weird%20Shit",
+          "apple_music_url": "https://music.apple.com/mx/album/weird-shit/1793066215?i=1793066223&uo=4"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-10-01T21:09:56.878Z"
+}

@@ -3,46 +3,98 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="color-scheme" content="dark">
-  <meta name="robots" content="noindex, follow">
-  <meta name="description" content="Sitio oficial de Sirensence. Escucha su música en Spotify y descubre Crystal Soul Records.">
-  <title>Sirensence — Sitio oficial</title>
+  <meta name="color-scheme" content="dark light">
+  <meta name="theme-color" content="#071719">
+  <meta name="description" content="Sirensence: música y videojuegos de Alejandro Emmanuel Arroyo Vargas. Explora su discografía y descubre Waterful Ring Toss 2D, de Crystal Soul Records.">
+  <title>Sirensence — Música y otros mundos</title>
   <link rel="canonical" href="https://sirensence.com/">
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
-  <style>
-    :root { color-scheme: dark; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #0b0a12; color: #f8f5ff; }
-    * { box-sizing: border-box; }
-    body { margin: 0; min-height: 100svh; background: radial-gradient(ellipse at 80% 15%, #28203d 0, transparent 55%), #0b0a12; }
-    main { width: min(100% - 48px, 960px); min-height: 100svh; margin: auto; padding: 44px 0 36px; display: flex; flex-direction: column; justify-content: space-between; gap: 56px; }
-    .topline, .label, footer { color: #b9aecb; font-size: .8rem; letter-spacing: .16em; text-transform: uppercase; }
-    .topline { display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; }
-    .label { display: inline-block; margin: 0 0 20px; padding: 10px 14px; border: 1px solid #4a3d5c; border-radius: 100px; letter-spacing: .09em; }
-    h1 { margin: 0; font-size: clamp(3rem, 10vw, 7.4rem); font-weight: 650; letter-spacing: -.065em; line-height: 1.05; overflow-wrap: anywhere; }
-    .intro { color: #cfc6dc; max-width: 520px; margin: 28px 0 0; font-size: clamp(1rem, 2vw, 1.18rem); line-height: 1.7; }
-    nav { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 36px; }
-    a { text-decoration: none; color: inherit; }
-    nav a { padding: 15px 22px; border: 1px solid #5d4d71; border-radius: 7px; font-weight: 550; }
-    nav a.primary { background: #ede3ff; color: #191122; border-color: #ede3ff; }
-    nav a:hover { border-color: #d4b8ff; background: #352541; }
-    nav a.primary:hover { background: #d4b8ff; color: #191122; }
-    a:focus-visible { outline: 3px solid #d4b8ff; outline-offset: 5px; }
-    footer { border-top: 1px solid #30273d; padding-top: 22px; letter-spacing: .07em; line-height: 1.8; }
-    @media (max-width: 480px) { main { width: calc(100% - 36px); padding-top: 28px; } nav { flex-direction: column; align-items: stretch; } nav a { text-align: center; } }
-  </style>
+  <link rel="stylesheet" href="./styles.css?v=1">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="es_MX">
+  <meta property="og:site_name" content="Sirensence">
+  <meta property="og:title" content="Sirensence — Música y otros mundos">
+  <meta property="og:description" content="Explora la música de Sirensence y descubre Waterful Ring Toss 2D.">
+  <meta property="og:url" content="https://sirensence.com/">
+  <meta property="og:image" content="https://img.itch.zone/aW1nLzMwMDY3NDAxLnBuZw==/original/eFLbGB.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@graph":[
+      {"@type":"WebSite","@id":"https://sirensence.com/#website","url":"https://sirensence.com/","name":"Sirensence","inLanguage":"es","about":{"@id":"https://sirensence.com/#artist"}},
+      {"@type":"MusicGroup","@id":"https://sirensence.com/#artist","name":"Sirensence","url":"https://sirensence.com/","description":"Proyecto musical y creativo de Alejandro Emmanuel Arroyo Vargas, parte de Crystal Soul Records.","sameAs":["https://open.spotify.com/artist/4KYUjMtt4WTOqNm32dv2CO","https://music.apple.com/mx/artist/sirensence/1792750613"],"member":{"@id":"https://sirensence.com/#creator"}},
+      {"@type":"Person","@id":"https://sirensence.com/#creator","name":"Alejandro Emmanuel Arroyo Vargas","url":"https://alejandroarroyo.com/"},
+      {"@type":"VideoGame","@id":"https://sirensence.com/#game","name":"Waterful Ring Toss 2D","url":"https://sirensence.itch.io/waterful-ring-toss-2d","gamePlatform":["Windows","Linux"],"creator":{"@id":"https://sirensence.com/#creator"}}
+    ]
+  }
+  </script>
+  <script type="module" src="./script.js?v=1"></script>
 </head>
 <body>
-  <main>
-    <header class="topline"><span>Sitio oficial</span><span>Crystal Soul Records</span></header>
-    <section aria-labelledby="artist-name">
-      <p class="label">Nueva página en preparación</p>
-      <h1 id="artist-name">Sirensence</h1>
-      <p class="intro">Este es el nuevo espacio oficial de Sirensence. Mientras preparamos el sitio completo, puedes escuchar la música y visitar la página de Crystal Soul Records.</p>
-      <nav aria-label="Enlaces oficiales">
-        <a class="primary" href="https://open.spotify.com/artist/4KYUjMtt4WTOqNm32dv2CO" target="_blank" rel="noopener noreferrer">Escuchar en Spotify ↗</a>
-        <a href="https://crystalsoulrecords.com/" target="_blank" rel="noopener noreferrer">Crystal Soul Records ↗</a>
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="wordmark" href="#inicio" aria-label="Sirensence, inicio"><span class="brand-star" aria-hidden="true">✦</span> SIRENSENCE</a>
+      <nav aria-label="Navegación principal">
+        <a href="#musica">Música</a><a href="#juego">El juego</a><a href="#acerca">Acerca de</a>
+        <a class="nav-spotify" href="https://open.spotify.com/artist/4KYUjMtt4WTOqNm32dv2CO" target="_blank" rel="noopener noreferrer">Spotify <span aria-hidden="true">↗</span></a>
       </nav>
+    </div>
+  </header>
+  <main id="contenido">
+    <section id="inicio" class="hero" aria-labelledby="hero-title">
+      <div class="hero-orbit" aria-hidden="true"></div>
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> MÚSICA · VIDEOJUEGOS · IMAGINACIÓN</p>
+          <h1 id="hero-title">Sirensence.<br><span>Un universo<br>propio.</span></h1>
+          <p class="hero-description">Canciones para perderte un rato.<br>Mundos para quedarte un poco más.</p>
+          <div class="hero-actions"><a class="button button-mint" href="#musica">Explorar la música <span aria-hidden="true">↗</span></a><a class="text-link" href="#juego">Conocer el juego <span aria-hidden="true">↓</span></a></div>
+          <div class="hero-stats"><div><strong id="release-count">—</strong><span>Lanzamientos</span></div><div><strong id="track-count">—</strong><span>Canciones</span></div><a href="https://crystalsoulrecords.com/" target="_blank" rel="noopener noreferrer">Parte de<br><b>Crystal Soul Records ↗</b></a></div>
+        </div>
+        <div class="hero-art">
+          <span class="art-orbit orbit-one" aria-hidden="true"></span><span class="art-orbit orbit-two" aria-hidden="true"></span>
+          <div class="hero-cover"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/c1/be/e9c1bee3-9ecc-5abb-b4fc-595346c86cd1/artwork.jpg/600x600bb.jpg" alt="Portada del EP My Little Siren de Sirensence" width="600" height="600" fetchpriority="high"></div>
+          <a class="art-caption" href="https://open.spotify.com/album/48nFT6QIJOvDr9dpopiOGP" target="_blank" rel="noopener noreferrer"><span>EP · SIRENSENCE</span><strong>My Little Siren</strong><span class="caption-arrow" aria-hidden="true">↗</span></a>
+          <span class="floating-note">Un poco de música.<br>Un poco de magia.</span>
+        </div>
+      </div>
     </section>
-    <footer>Sirensence · sirensence.com</footer>
+
+    <div class="container latest-strip" id="latest-release" hidden aria-label="Lanzamiento más reciente"></div>
+
+    <section id="musica" class="music-section section" aria-labelledby="music-title">
+      <div class="container">
+        <div class="section-heading"><div><p class="eyebrow">EL UNIVERSO SONORO</p><h2 id="music-title">La discografía.</h2></div><p>Todos los lanzamientos de Sirensence.<br>Encuentra tu próxima canción.</p></div>
+        <div class="catalog-controls">
+          <div class="filters" role="group" aria-label="Filtrar por tipo de lanzamiento">
+            <button type="button" class="filter active" data-format="all" aria-pressed="true">Todo</button><button type="button" class="filter" data-format="Single" aria-pressed="false">Sencillos</button><button type="button" class="filter" data-format="EP" aria-pressed="false">EP</button><button type="button" class="filter" data-format="Álbum" aria-pressed="false">Álbumes</button>
+          </div>
+          <div class="search-field"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m16 16 5 5"></path></svg><label class="visually-hidden" for="catalog-search">Buscar un lanzamiento o una canción</label><input type="search" id="catalog-search" placeholder="Busca una canción o un disco…" autocomplete="off"></div>
+        </div>
+        <p class="catalog-status" id="catalog-status" role="status" aria-live="polite">Cargando catálogo…</p>
+        <div class="release-grid" id="catalog-grid"></div>
+        <p id="catalog-empty" class="catalog-empty" hidden>No encontramos coincidencias. Prueba con otro título o cambia el filtro.</p>
+        <noscript><p>Activa JavaScript para explorar el catálogo. También puedes <a href="https://open.spotify.com/artist/4KYUjMtt4WTOqNm32dv2CO">escuchar todos los lanzamientos en Spotify</a>.</p></noscript>
+        <div class="catalog-footnote"><span class="status-dot" aria-hidden="true"></span><p>Catálogo automático, revisado cada seis horas desde Apple Music/iTunes. Los nuevos enlaces de Spotify pueden abrir una búsqueda.<br><span id="catalog-updated"></span></p></div>
+      </div>
+    </section>
+
+    <section id="juego" class="game-section section" aria-labelledby="game-title">
+      <div class="container">
+        <div class="game-intro"><p class="eyebrow">DEL SONIDO A LA PANTALLA</p><span class="platform-pill">WINDOWS + LINUX</span></div>
+        <div class="game-grid">
+          <div class="game-copy"><h2 id="game-title">Waterful<br>Ring Toss <span>2D.</span></h2><p class="game-lead">Pequeños anillos.<br>Grandes sonrisas.</p><p>El clásico juguete de agua, convertido en un arcade para tu computadora. Impulsa anillos con chorros de agua, encájalos en los postes, crea combos y desbloquea nuevos estilos.</p><a class="button button-dark" href="https://sirensence.itch.io/waterful-ring-toss-2d" target="_blank" rel="noopener noreferrer">Descubrir en itch.io <span aria-hidden="true">↗</span></a><a class="game-trailer" href="https://www.youtube.com/watch?v=ic4olMdLnxQ" target="_blank" rel="noopener noreferrer">Ver el tráiler ↗</a></div>
+          <figure class="game-art"><img src="https://img.itch.zone/aW1nLzMwMDY3NDAxLnBuZw==/original/eFLbGB.png" alt="Waterful Ring Toss 2D: Sirensence, anillos de colores y un mundo acuático" width="1672" height="941" loading="lazy"><figcaption>Un videojuego de Alejandro Emmanuel Arroyo Vargas.</figcaption></figure>
+        </div>
+        <div class="game-modes"><article><span class="mode-number">01</span><h3>1 Minute</h3><p>Sesenta segundos para mejorar tu puntuación y crear combos.</p></article><article><span class="mode-number">02</span><h3>Chill</h3><p>Sin límite de tiempo. Juega y relájate a tu propio ritmo.</p></article><article><span class="mode-number">03</span><h3>100 Rings</h3><p>Encaja cien anillos y descubre qué tan rápido puedes hacerlo.</p></article><article><span class="mode-number">04</span><h3>1v1 local</h3><p>Compite con otra persona en la misma computadora.</p></article></div>
+        <div class="soundtrack"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e9/c1/be/e9c1bee3-9ecc-5abb-b4fc-595346c86cd1/artwork.jpg/600x600bb.jpg" alt="Portada de My Little Siren" width="600" height="600" loading="lazy"><div><p class="eyebrow">LA MÚSICA DEL JUEGO</p><h3>My Little Siren</h3><p>El juego incluye canciones del EP, con opciones de voz, instrumentales o solo efectos de sonido. Sirensence te acompaña mientras juegas.</p></div><a class="text-link" href="https://open.spotify.com/album/48nFT6QIJOvDr9dpopiOGP" target="_blank" rel="noopener noreferrer">Escuchar el EP <span aria-hidden="true">↗</span></a></div>
+      </div>
+    </section>
+
+    <section id="acerca" class="about-section section" aria-labelledby="about-title"><div class="container about-grid"><div><p class="eyebrow">DETRÁS DE SIRENSENCE</p><h2 id="about-title">Música, juegos<br>y una misma visión.</h2></div><div class="about-copy"><p>Sirensence es el proyecto musical y creativo de <strong>Alejandro Emmanuel Arroyo Vargas</strong>, parte de <strong>Crystal Soul Records</strong>. Este espacio reúne sus canciones y el videojuego <em>Waterful Ring Toss 2D</em>.</p><p>El juego fue creado con Godot, con herramientas de IA generativa en algunos recursos y música, bajo dirección creativa, escritura, integración y desarrollo humanos.</p><div class="about-links"><a class="text-link" href="https://alejandroarroyo.com/" target="_blank" rel="noopener noreferrer">Conocer al creador ↗</a><a class="text-link" href="https://crystalsoulrecords.com/" target="_blank" rel="noopener noreferrer">Crystal Soul Records ↗</a></div></div></div></section>
   </main>
+  <footer class="site-footer"><div class="container footer-main"><a class="wordmark" href="#inicio"><span class="brand-star" aria-hidden="true">✦</span> SIRENSENCE</a><nav aria-label="Enlaces oficiales"><a href="https://open.spotify.com/artist/4KYUjMtt4WTOqNm32dv2CO" target="_blank" rel="noopener noreferrer">Spotify ↗</a><a href="https://music.apple.com/mx/artist/sirensence/1792750613" target="_blank" rel="noopener noreferrer">Apple Music ↗</a><a href="https://sirensence.itch.io/waterful-ring-toss-2d" target="_blank" rel="noopener noreferrer">itch.io ↗</a></nav></div><div class="container footer-bottom"><span>© <span id="year">2026</span> Sirensence · Crystal Soul Records</span><span>Hecho con imaginación.</span></div></footer>
 </body>
 </html>

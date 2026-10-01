@@ -1,0 +1,202 @@
+{
+  "releases": {
+    "1793066215": "https://open.spotify.com/intl-es/album/2q56Y5Pt50eDaWppL6lgwf",
+    "1795240899": "https://open.spotify.com/intl-es/album/1UxahmJ9VuA5ZrcPafwVhl",
+    "6817973984": "https://open.spotify.com/album/4gqsjaSgBnYFaYi4HrYj1n",
+    "6817568937": "https://open.spotify.com/album/6aUmXtqedLbtZaZwXFwYxo",
+    "6811512990": "https://open.spotify.com/intl-es/album/48nFT6QIJOvDr9dpopiOGP",
+    "6811567749": "https://open.spotify.com/intl-es/album/3VKrkp1tenYQwAGxk7HqAu",
+    "6811247594": "https://open.spotify.com/intl-es/album/1j8j5Znjt9ZIQVXnscBKmY",
+    "6809898075": "https://open.spotify.com/intl-es/album/06SFiRoJj84vY4FbsztcQl",
+    "6809174982": "https://open.spotify.com/intl-es/album/2nPxwJQ5DlUmXcUC7cI5Jx",
+    "6807365554": "https://open.spotify.com/intl-es/album/7H9ABQyty4Jk1dKuMNNwzo",
+    "6806744476": "https://open.spotify.com/intl-es/album/3FZLBy69hK0uWelEvm8qEu",
+    "6806537147": "https://open.spotify.com/intl-es/album/1KlE3dakBIHZYUWjkIG9t2",
+    "6787967791": "https://open.spotify.com/intl-es/album/7C9m4vuSjPCRJGlMw6jpto"
+  },
+  "tracks": {
+    "1793066215": [],
+    "1795240899": [],
+    "6817973984": [],
+    "6817568937": [],
+    "6811512990": [
+      {
+        "track_number": 1,
+        "title": "My Little Siren",
+        "spotify_url": "https://open.spotify.com/intl-es/track/46yai4liPWTU5gN6Tjrprt"
+      },
+      {
+        "track_number": 2,
+        "title": "Sweet Shooting Star",
+        "spotify_url": "https://open.spotify.com/intl-es/track/39msqqcYMKHGtqKyRCrnao"
+      },
+      {
+        "track_number": 3,
+        "title": "Bioluminescent Love",
+        "spotify_url": "https://open.spotify.com/intl-es/track/1sESVz0gYvZTZH13C6J2ec"
+      },
+      {
+        "track_number": 4,
+        "title": "Scared of Love",
+        "spotify_url": "https://open.spotify.com/intl-es/track/3OAb1z0Ml6Dl1vi7J8ejTI"
+      },
+      {
+        "track_number": 5,
+        "title": "Everything Comes In Waves",
+        "spotify_url": "https://open.spotify.com/intl-es/track/5JeXegSM60OWMrzjKhYwJg"
+      }
+    ],
+    "6811567749": [
+      {
+        "track_number": 1,
+        "title": "No One Ever Cared for Me",
+        "spotify_url": "https://open.spotify.com/intl-es/track/3Q60pk9aCqzk5uFZALy9MT"
+      }
+    ],
+    "6811247594": [
+      {
+        "track_number": 1,
+        "title": "Caffeine and Collapse",
+        "spotify_url": "https://open.spotify.com/intl-es/track/1xBmxPMOMwttABVHD3oEUZ"
+      }
+    ],
+    "6809898075": [
+      {
+        "track_number": 1,
+        "title": "Heavy Vibe",
+        "spotify_url": "https://open.spotify.com/intl-es/track/0vrszfNhoDm3c0y7FTomef"
+      }
+    ],
+    "6809174982": [
+      {
+        "track_number": 1,
+        "title": "Pretty Things Stay Here",
+        "spotify_url": "https://open.spotify.com/intl-es/track/5pygEsKE0IY6BN4HLcpB5X"
+      }
+    ],
+    "6807365554": [
+      {
+        "track_number": 1,
+        "title": "Cloud Island",
+        "spotify_url": "https://open.spotify.com/intl-es/track/7bYM9Z9FQdStFPdfDd57nQ"
+      }
+    ],
+    "6806744476": [
+      {
+        "track_number": 1,
+        "title": "Daddy's Not Allright",
+        "spotify_url": "https://open.spotify.com/intl-es/track/714ynMmcDI1ECbedV7imUV"
+      }
+    ],
+    "6806537147": [
+      {
+        "track_number": 1,
+        "title": "Without a Soul",
+        "spotify_url": "https://open.spotify.com/intl-es/track/2pP3HB1nNiSoGwgSYsSTix"
+      }
+    ],
+    "6787967791": [
+      {
+        "track_number": 1,
+        "title": "A Pillow in the Safebox",
+        "spotify_url": "https://open.spotify.com/intl-es/track/7h0mdYnppgNOwuFim8xjk7"
+      },
+      {
+        "track_number": 2,
+        "title": "Clear Snow",
+        "spotify_url": "https://open.spotify.com/intl-es/track/1D2QURPWSjXuOdYh2gL2fK"
+      },
+      {
+        "track_number": 3,
+        "title": "Cozy Bed And Stuff",
+        "spotify_url": "https://open.spotify.com/intl-es/track/7G5VYvxx6WNbZsBic963MH"
+      },
+      {
+        "track_number": 4,
+        "title": "Good Morning",
+        "spotify_url": "https://open.spotify.com/intl-es/track/59D8oYXWTFdRFGBJnPd1X4"
+      },
+      {
+        "track_number": 5,
+        "title": "Her Name",
+        "spotify_url": "https://open.spotify.com/intl-es/track/39IfgT0VasCJQbKWG5CZoH"
+      },
+      {
+        "track_number": 6,
+        "title": "I Don't Wanna Know",
+        "spotify_url": "https://open.spotify.com/intl-es/track/2fhSWbsLtgK55frsAfD9Pn"
+      },
+      {
+        "track_number": 7,
+        "title": "It's You Again",
+        "spotify_url": "https://open.spotify.com/intl-es/track/6rCL2bWOXmXFOCCX7H4ejD"
+      },
+      {
+        "track_number": 8,
+        "title": "Just Something",
+        "spotify_url": "https://open.spotify.com/intl-es/track/4zzlIo4ReKpHD8W3SctxUV"
+      },
+      {
+        "track_number": 9,
+        "title": "Just That",
+        "spotify_url": "https://open.spotify.com/intl-es/track/4cDUf4JGoZXeusPDRHw2DW"
+      },
+      {
+        "track_number": 10,
+        "title": "Midnight Snack",
+        "spotify_url": "https://open.spotify.com/intl-es/track/2Ofm3j06FN9iTEsMw18vYJ"
+      },
+      {
+        "track_number": 11,
+        "title": "Saturday Night",
+        "spotify_url": "https://open.spotify.com/intl-es/track/39lEKmPjAtEIzTmWWryzhW"
+      },
+      {
+        "track_number": 12,
+        "title": "So They Say",
+        "spotify_url": "https://open.spotify.com/intl-es/track/60fJTd6juNobDbUKTaiOJY"
+      },
+      {
+        "track_number": 13,
+        "title": "Someday Maybe",
+        "spotify_url": "https://open.spotify.com/intl-es/track/4Oy7vbEs6udgWdTRqx4zMO"
+      },
+      {
+        "track_number": 14,
+        "title": "Sunrise",
+        "spotify_url": "https://open.spotify.com/intl-es/track/2PuUqYOA4XjS7h3BLC5LSx"
+      },
+      {
+        "track_number": 15,
+        "title": "Take It Slow",
+        "spotify_url": "https://open.spotify.com/intl-es/track/1GoY4iTPGun6i4eWfeh5SU"
+      },
+      {
+        "track_number": 16,
+        "title": "Walk On The Moonlight",
+        "spotify_url": "https://open.spotify.com/intl-es/track/4aZJix5QhaEao48J497waP"
+      },
+      {
+        "track_number": 17,
+        "title": "Water Wave",
+        "spotify_url": "https://open.spotify.com/intl-es/track/4fSaQaHOFfZbIG81n4CwvO"
+      },
+      {
+        "track_number": 18,
+        "title": "What's That Again",
+        "spotify_url": "https://open.spotify.com/intl-es/track/7KEtJpWBDgBvpBLL8DfQlQ"
+      },
+      {
+        "track_number": 19,
+        "title": "Whatever It Is",
+        "spotify_url": "https://open.spotify.com/intl-es/track/7eAP8CXyogcCRvh5110dfX"
+      },
+      {
+        "track_number": 20,
+        "title": "Yes, Whatever",
+        "spotify_url": "https://open.spotify.com/intl-es/track/7Hv2Sgu9Qdj5229yw5OX0T"
+      }
+    ]
+  }
+}
+
