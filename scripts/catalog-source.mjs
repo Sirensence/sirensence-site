@@ -91,7 +91,25 @@ export async function buildCatalog(sources, links, previous, {fetcher = fetchJSO
   }
   // Preserve historical entries if a region/feed temporarily omits a release.
   const merged = new Map((previous?.releases || []).filter(item => item.artist === "Sirensence").map(item => [item.source_id, item]));
-  for (const release of incoming) merged.set(release.source_id, release);
+  for (const release of incoming) {
+    // Reconcile a Spotify-first entry when the Apple feed catches up.
+    const retained = merged.get(release.source_id) || [...merged.values()].find(item =>
+      item.source_id.startsWith("spotify:") &&
+      normalize(cleanTitle(item.title)) === normalize(release.title) &&
+      item.release_date === release.release_date
+    );
+    if (retained) {
+      if (!release.spotify_url) release.spotify_url = safeURL(retained.spotify_url, ["open.spotify.com"]);
+      for (const track of release.tracks) {
+        const previousTrack = (retained.tracks || []).find(item =>
+          item.track_number === track.track_number && normalize(item.title) === normalize(track.title)
+        );
+        if (!track.spotify_url) track.spotify_url = safeURL(previousTrack?.spotify_url, ["open.spotify.com"]);
+      }
+      if (retained.source_id !== release.source_id) merged.delete(retained.source_id);
+    }
+    merged.set(release.source_id, release);
+  }
   const releases = [...merged.values()].sort((a,b) => b.release_date.localeCompare(a.release_date) || a.title.localeCompare(b.title, "es"));
   const content = {schema_version:2, market, releases};
   const previousContent = previous ? {schema_version:previous.schema_version, market:previous.market, releases:previous.releases} : null;

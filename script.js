@@ -12,7 +12,7 @@ function spotifyURL(item) {
 }
 
 function coverImage(release, loading = "lazy") {
-  const src = safeURL(release.cover_url, ["mzstatic.com", "bcbits.com"]) || "./assets/cover-placeholder.svg";
+  const src = safeURL(release.cover_url, ["mzstatic.com", "bcbits.com", "i.scdn.co"]) || "./assets/cover-placeholder.svg";
   return `<img src="${esc(src)}" alt="Portada de ${esc(release.title)}" width="600" height="600" loading="${loading}" decoding="async">`;
 }
 
