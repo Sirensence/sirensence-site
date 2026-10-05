@@ -65,27 +65,41 @@ test("bad identity, empty feeds and incomplete track lists stop the update", asy
 });
 
 test("Spotify-first Jennifer survives feed lag and merges once Apple catches up", async () => {
-  const published = catalog.releases.find(item => item.title === "Jennifer");
-  assert.ok(published);
+  // Keep the pre-Apple scenario fixed even after the published catalog catches up.
+  const published = {
+    source_id:"spotify:6LE1c5P4KosF8M6Jx5AH7C",
+    title:"Jennifer",
+    artist:"Sirensence",
+    spotify_url:"https://open.spotify.com/intl-es/album/6LE1c5P4KosF8M6Jx5AH7C",
+    format:"Single",
+    release_date:"2026-10-02",
+    total_tracks:1,
+    tracks:[{
+      track_number:1,
+      title:"Jennifer",
+      spotify_url:"https://open.spotify.com/intl-es/track/3PwbjY0gt5kadgk67nbqQH"
+    }]
+  };
+  const seed = {schema_version:2, market:"MX", updated_at:"before", releases:[published]};
   const album = {wrapperType:"collection", artistId:source.apple_artist_id, collectionId:9999, collectionName:"Jennifer - Single", trackCount:1, releaseDate:"2026-10-02T07:00:00Z"};
   const song = {wrapperType:"track", kind:"song", collectionId:9999, trackId:99991, trackNumber:1, trackName:"Jennifer", trackTimeMillis:157000, trackExplicitness:"explicit"};
   const fetcher = async url => new URL(url).searchParams.get("entity") === "album"
     ? {results:[{wrapperType:"artist",artistId:source.apple_artist_id}, album]}
     : {results:[song]};
-  const merged = await buildCatalog([source], links, catalog, {fetcher,pause:async()=>{},now:()=>"fixed"});
+  const merged = await buildCatalog([source], links, seed, {fetcher,pause:async()=>{},now:()=>"fixed"});
   const matches = merged.releases.filter(item => item.title === "Jennifer");
   assert.equal(matches.length, 1);
   assert.equal(matches[0].source_id, "apple:9999");
   assert.equal(matches[0].spotify_url, published.spotify_url);
   assert.equal(matches[0].tracks[0].spotify_url, published.tracks[0].spotify_url);
-  assert.equal(merged.releases.length, catalog.releases.length);
+  assert.equal(merged.releases.length, seed.releases.length);
   const stable = await buildCatalog([source], links, merged, {fetcher,pause:async()=>{},now:()=>"later"});
   assert.equal(stable.updated_at, "fixed");
   assert.equal(stable.releases.find(item=>item.title==="Jennifer").spotify_url, published.spotify_url);
   const laggingFetcher = async url => new URL(url).searchParams.get("entity") === "album"
     ? {results:[{wrapperType:"artist",artistId:source.apple_artist_id},{...album,collectionId:8888,collectionName:"Another Song - Single"}]}
     : {results:[{...song,collectionId:8888,trackId:88881,trackName:"Another Song"}]};
-  const lagging = await buildCatalog([source], links, catalog, {fetcher:laggingFetcher,pause:async()=>{},now:()=>"fixed"});
+  const lagging = await buildCatalog([source], links, seed, {fetcher:laggingFetcher,pause:async()=>{},now:()=>"fixed"});
   assert.equal(lagging.releases.filter(item=>item.title==="Jennifer").length, 1);
   assert.equal(lagging.releases.find(item=>item.title==="Jennifer").source_id, published.source_id);
 });
